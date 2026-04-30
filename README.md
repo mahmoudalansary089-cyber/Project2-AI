@@ -1,4 +1,4 @@
-# Project 2 - AI
+ Project 2 - AI
 
 ## Description
 This project focuses on applying AI techniques to analyze a dataset and extract meaningful insights.
